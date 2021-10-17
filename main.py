@@ -19,8 +19,9 @@ def konto_erstellen():
         jdata.seek(0)   
         json.dump(pdata,jdata,indent=4)
         jdata.truncate()
+    print (f'Ihre ID Nummer lautet: {id}\nIhre Passwort lautet: {passwort}\nBitte notieren Sie es!')
 def geld_abheben ():
-    pass
+    
 def geld_einzahlen():
     pass
 def geld_ueberweisen ():
