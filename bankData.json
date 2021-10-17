@@ -4,7 +4,7 @@
         "vorname": "Mehmet",
         "nachname": "Yilmaz",
         "passwort": "q",
-        "geldbetrag": 0.0
+        "geldbetrag": 500.0
     },
     "101": {
         "vorname": "Melih",
