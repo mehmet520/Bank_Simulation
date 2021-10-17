@@ -3,16 +3,7 @@
     "103": {
         "vorname": "m",
         "nachname": "y",
-        "passwort": "sdfhg"
-    },
-    "104": {
-        "vorname": "h",
-        "nachname": "g",
-        "passwort": "dfgh"
-    },
-    "105": {
-        "vorname": "RRR",
-        "nachname": "rrr",
-        "passwort": "rrrrrrrrrrrrrrr"
+        "passwort": "s",
+        "geldbetrag": 200.0
     }
 }
