@@ -1,5 +1,5 @@
 {
-    "id": 102,
+    "id": 103,
     "100": {
         "vorname": "Mehmet",
         "nachname": "Yilmaz",
@@ -7,9 +7,15 @@
         "geldbetrag": 500.0
     },
     "101": {
-        "vorname": "Melih",
-        "nachname": "Yilmaz",
+        "vorname": "Michael",
+        "nachname": "Schmidt",
         "passwort": "q",
         "geldbetrag": 323.0
+    },
+    "102": {
+        "vorname": "Ruben",
+        "nachname": "Kaiser",
+        "passwort": "q",
+        "geldbetrag": 0
     }
 }
