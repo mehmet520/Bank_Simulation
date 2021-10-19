@@ -144,6 +144,5 @@ def anfang():
         geld_ueberweisen()
 
 
-
 anfang()
 
